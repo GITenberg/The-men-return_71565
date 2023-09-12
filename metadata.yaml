@@ -1,0 +1,38 @@
+_repo: The-men-return_71565
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engle, Robert
+    aliases:
+    - Engle, Robert V.
+    - Engel, Robert V.
+    - Engle, Robert J.
+    birthdate: 1928
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+creator:
+  author:
+    agent_name: Vance, Jack
+    alias: Vance, John Holbrook
+    birthdate: 1916
+    gutenberg_agent_id: '34300'
+    url: http://www.gutenberg.org/2009/agents/34300
+    wikipedia: http://en.wikipedia.org/wiki/Jack_Vance
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71565'
+language: en
+pgterms:marc905: 20230813101418vance
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The men return
+url: http://www.gutenberg.org/ebooks/71565
