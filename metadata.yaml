@@ -10,6 +10,9 @@ contributor:
     birthdate: 1928
     gutenberg_agent_id: '54220'
     url: http://www.gutenberg.org/2009/agents/54220
+covers:
+- cover_type: archival
+  image_path: 71565-h/images/cover.jpg
 creator:
   author:
     agent_name: Vance, Jack
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34300
     wikipedia: http://en.wikipedia.org/wiki/Jack_Vance
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71565#The-men-return
 gutenberg_issued: '2023-09-04'
 identifiers:
   gutenberg: '71565'
